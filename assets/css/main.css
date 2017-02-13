@@ -3251,7 +3251,7 @@
 
 			.main.style2 .content {
 				width: 50%;
-			}
+			}		
 
 			.main.style2.right .content {
 				left: 70%;
@@ -3282,6 +3282,10 @@
 			.main.style2 .content {
 				width: 60%;
 			}
+
+			.main.style2 .content .profile_img {
+				float:right; width: 30%; padding: 0.4em 0 0 0em;
+			}				
 
 			.main.style2.right .content {
 				left: 40%;
@@ -3383,7 +3387,7 @@
 					width: 100%;
 					left: 0% !important;
 					text-align: center;
-				}
+				}	
 
 				.main.style2 .tmp {
 					width: 100%;
