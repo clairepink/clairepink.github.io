@@ -3285,7 +3285,11 @@
 
 			.main.style2 .content {
 				width: 60%;
-			}			
+			}
+
+			.main.style2 .content .profile_img {
+				float: initial;
+			}						
 
 			.main.style2.right .content {
 				left: 40%;
