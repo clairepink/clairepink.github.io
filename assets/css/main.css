@@ -1920,6 +1920,10 @@
 	br.clear {
 		clear: both;
 	}
+	
+	.center {
+		text-align: center;
+	}
 
 /* Sections/Article */
 
